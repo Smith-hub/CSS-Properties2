@@ -1,0 +1,19 @@
+body {
+      background-color: #87CEFA;
+}
+h1 {
+    text-align: centre;
+    background-color: rgb(135,206,235);
+}
+p {
+   background-color: LightGreen;
+}
+h1.next {
+         background-color: ;
+         text-align: center;
+         text-decoration: none;
+         border: 5px dashed white;
+         border-radius:2px;
+         padding:10px;
+         margin: 100px
+}
